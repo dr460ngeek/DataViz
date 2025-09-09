@@ -2,7 +2,9 @@
 
 #### In order to use it, clone it through github: 
 
-```git clone https://github.com/dr460ngeek/dataviz.git
+```bash  git clone https://github.com/dr460ngeek/dataviz.git
+
+
 ```
 
 Wait for further instructions. 
